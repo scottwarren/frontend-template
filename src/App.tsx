@@ -5,7 +5,10 @@ import { SystemTime } from './components/SystemTime'
 function App() {
   return (
     <div>
-      Hello world, the time is: <SystemTime />
+      <h1 className='text-3xl font-bold underline text-center'>Hello world</h1>
+      <p>
+        the time is: <SystemTime />
+      </p>
     </div>
   )
 }
