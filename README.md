@@ -9,3 +9,4 @@ The point of the defaults/choices is to make it easier to start a project and to
 - React
 - TypeScript
 - Import aliases. `@` for `src` folder
+- Tailwind CSS
