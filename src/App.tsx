@@ -1,5 +1,3 @@
-import './App.css'
-
 import { SystemTime } from './components/SystemTime'
 
 function App() {
